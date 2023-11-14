@@ -1,0 +1,1 @@
+# efecto-light-box
